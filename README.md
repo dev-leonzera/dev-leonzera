@@ -26,5 +26,8 @@
 ## Current Projects 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-leonzera&repo=knExpress)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-leonzera&repo=ApiStarter)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-leonzera&repo=knExpress)](https://github.com/dev-leonzera/knExpress)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-leonzera&repo=ApiStarter)](https://github.com/dev-leonzera/ApiStarter)
+
+
+Made with ☕ and 💪 by **The dev who called himself Leonzera**
