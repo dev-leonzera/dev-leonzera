@@ -1,7 +1,7 @@
 ## Hey people! 👋
 
 
-![Octocat](octocat.png)
+![Octocat](https://github.com/dev-leonzera/dev-leonzera/blob/master/octocat.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonandrade/)](https://www.linkedin.com/in/leonandrade/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonandrade22@gmail.com)](mailto:leonandrade22@gmail.com)
