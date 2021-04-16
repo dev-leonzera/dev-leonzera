@@ -11,10 +11,8 @@
 
 
 - :books: Graduating IT in IFRN :green_heart: ❤ 
-- **Backend** web developer. **Fullstack** apprentice.
-- 💻 NodeJS, JavaScript, VueJS, React and **more**.
-- 🔭 I’m currently coding with NodeJS/Express, Vue/React and PostgreSQL
-- 🌱 I’m currently learning Design Patterns, Architecture, UX/UI and some other cool things. 
+- 💻 Currently working as Junior Web Developer.
+- 🌱 Currently learning Design Patterns, Architecture, UX/UI and some other cool things. 
 
 
 - ⚡ Also, I'm: 
@@ -25,10 +23,9 @@
 
 ## Current Projects 
 
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-leonzera&repo=knExpress)](https://github.com/dev-leonzera/knExpress)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-leonzera&repo=ApiStarter)](https://github.com/dev-leonzera/ApiStarter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-leonzera&repo=Secrypter)](https://github.com/dev-leonzera/Secrypter)
 
 
-Made with ☕ and 💪 by **The dev who called himself Leonzera**
+Made with ☕ and 💪 by **Dev-Leonzera**
