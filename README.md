@@ -29,8 +29,8 @@
 ## About Me
 
 - :books: Graduating IT in IFRN :green_heart: ❤ 
-- 💻 Currently working as Junior Web Developer.
-- 🌱 Currently learning Design Patterns, Architecture, UX/UI and some other cool things. 
+- 💻 Currently working as Junior Web Developer at Nova M3. I work with HTML, CSS, JS, PHP, Laravel, MySQL and Docker
+- 🌱 Currently learning Design Patterns, Architecture, UX/UI and some other cool things.
 
 
 - ⚡ Also, I'm: 
