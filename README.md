@@ -15,7 +15,7 @@
 
 ## About Me
 
-- :books: Graduating IT in IFRN :green_heart: ❤ 
+- :books: Graduating Backend Development in Anhanguera🧡 ❤ 
 - 💻 Currently available for work as Web Developer
 - 🌱 Currently learning about Design Patterns, Architecture, UX/UI and some other cool things.
 
