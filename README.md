@@ -5,11 +5,12 @@
 </div>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,php,laravel,docker,tailwind,ts,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,ts,nodejs,adonis,laravel,react,mysql,postgres,aws,linux,docker)](https://skillicons.dev)
  
 <div> 
   <a href = "mailto:leonandrade22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonandrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "http://www.devleonzera.com.br"><img src="https://img.shields.io/badge/-Website-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonandrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
