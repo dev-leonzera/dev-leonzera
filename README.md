@@ -16,8 +16,8 @@
 
 ## About Me
 
-- :books: Graduating Backend Development in Anhanguera🧡 ❤ 
-- 💻 Currently available for work as Web Developer
+- :books: Graduated in Backend Development in Anhanguera🧡 ❤ 
+- 💻 Currently available for work as Mobile Developer
 - 🌱 Currently learning about Design Patterns, Architecture, UX/UI and some other cool things.
 
 
