@@ -5,7 +5,7 @@
 </div>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,ts,nodejs,adonis,laravel,react,mysql,postgres,aws,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,ts,nodejs,laravel,react,graphql,mysql,postgres,aws,linux,docker)](https://skillicons.dev)
  
 <div> 
   <a href = "mailto:leonandrade22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,7 +17,7 @@
 ## About Me
 
 - :books: Graduated in Backend Development in Anhanguera🧡 ❤ 
-- 💻 Currently available for work as Mobile Developer
+- 💻 Currently working as Fullstack Developer in ChatADV
 - 🌱 Currently learning about Design Patterns, Architecture, UX/UI and some other cool things.
 
 
