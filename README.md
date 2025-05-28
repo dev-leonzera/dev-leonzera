@@ -16,8 +16,9 @@
 
 ## About Me
 
-- :books: Graduated in Backend Development in Anhanguera🧡 ❤ 
-- 💻 Currently working as Fullstack Developer in ChatADV
+- :books: Graduated in Backend Development in Anhanguera🧡 ❤
+- :books: Currently studying a MBA in IT Projects and Process Management in Anhanguera🧡 ❤
+- 💻 Currently looking for a place to work (Interested? Mail me NOW!)
 - 🌱 Currently learning about Design Patterns, Architecture, UX/UI and some other cool things.
 
 
