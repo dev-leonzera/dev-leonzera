@@ -5,31 +5,32 @@
 </div>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,ts,nodejs,laravel,react,graphql,mysql,postgres,aws,linux,docker)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=html,css,js,php,ts,nodejs,laravel,react,graphql,mysql,postgres,aws,linux,docker)](https://skillicons.dev)
  
 <div> 
-  <a href = "mailto:leonandrade22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "http://www.devleonzera.com.br"><img src="https://img.shields.io/badge/-Website-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
+  <a href = "mailto:[EMAIL_ADDRESS]"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- <a href = "http://www.devleonzera.com.br"><img src="https://img.shields.io/badge/-Website-%23333?style=for-the-badge&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/leonandrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
-## About Me
+## Sobre
 
-- :books: Graduated in Backend Development in Anhanguera🧡 ❤
-- :books: Currently studying a MBA in IT Projects and Process Management in Anhanguera🧡 ❤
-- 💻 Currently looking for a place to work (Interested? Mail me NOW!)
-- 🌱 Currently learning about Design Patterns, Architecture, UX/UI and some other cool things.
+- 🎓 Graduado em Desenvolvimento Web pela Anhanguera🧡 
+- 🎓 Pós-graduado em Gestão de Projetos e Processos de TI pela Anhanguera🧡
+- 🎓 Pós-graduado em Arquitetura de Soluções pela Anhanguera 🧡
+- 💻 Atualmente buscando uma oportunidade de trabalho (Interessado? Me mande um email AGORA!)
+- 🌱 Atualmente aprendendo sobre IA, RAG, LLMs e outras coisas legais.
 
 
-- ⚡ Also, I'm: 
-  - Musician 🎸🎹
-  - Fitness lifestyle 🏋️‍
-  - Music and Sea lover 🎶🌊
-  - Travel passionate ✈
+- ⚡ Também sou: 
+  - Músico 🎸🎹
+  - Estilo de vida fitness 🏋️
+  - Amante de música e do mar 🎶🌊
+  - Apaixonado por viagens ✈
 
-## Current Projects 
+<!-- ## Current Projects 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-leonzera&repo=tasky)](https://github.com/dev-leonzera/tasky)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-leonzera&repo=tasky)](https://github.com/dev-leonzera/tasky) -->
 
-Made with ☕ and 💪 by **Dev-Leonzera**
+Feito com ☕ e 💪 por **Dev-Leonzera**
