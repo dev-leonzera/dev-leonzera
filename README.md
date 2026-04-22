@@ -17,7 +17,7 @@
 ## Sobre
 
 - 🎓 Graduado em Desenvolvimento Web pela Anhanguera🧡 
-- 🎓 Pós-graduado em Gestão de Projetos e Processos de TI pela Anhanguera🧡
+- 🎓 MBA em Gestão de Projetos e Processos de TI pela Anhanguera🧡
 - 🎓 Pós-graduado em Arquitetura de Soluções pela Anhanguera 🧡
 - 💻 Atualmente buscando uma oportunidade de trabalho (Interessado? Me mande um email AGORA!)
 - 🌱 Atualmente aprendendo sobre IA, RAG, LLMs e outras coisas legais.
