@@ -16,7 +16,7 @@
 
 ## Sobre
 
-- 🎓 Graduado em Desenvolvimento Web pela Anhanguera🧡 
+- 🎓 Graduado em Desenvolvimento Back-End pela Anhanguera🧡 
 - 🎓 MBA em Gestão de Projetos e Processos de TI pela Anhanguera🧡
 - 🎓 Pós-graduado em Arquitetura de Soluções pela Anhanguera 🧡
 - 💻 Atualmente buscando uma oportunidade de trabalho (Interessado? Me mande um email AGORA!)
