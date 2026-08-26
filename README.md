@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Sou **Leonardo "Leonzera" Andrade**, desenvolvedor full-stack formado em **Desenvolvimento Web** e pós-graduado em **Arquitetura de Soluções** e **Gestão de Projetos de TI** pela Anhanguera 🧡
+Sou **Leonardo "Leonzera" Andrade**, desenvolvedor full-stack formado em **Desenvolvimento Back-End** e pós-graduado em **Arquitetura de Soluções**, com **MBA em Gestão de Projetos e Processos de TI** pela Anhanguera 🧡
 
 Atualmente focado em **IA, RAG e LLMs**, explorando como essas tecnologias podem transformar produtos digitais. Busco oportunidades onde eu possa aplicar minha experiência técnica para construir soluções robustas e escaláveis.
 
@@ -57,13 +57,6 @@ Quando não estou codando, me encontra tocando guitarra 🎸, na academia 🏋�
 
 ## 🐍 Contribuições
 
-<<<<<<< Updated upstream
-- 🎓 Graduado em Desenvolvimento Back-End pela Anhanguera🧡 
-- 🎓 MBA em Gestão de Projetos e Processos de TI pela Anhanguera🧡
-- 🎓 Pós-graduado em Arquitetura de Soluções pela Anhanguera 🧡
-- 💻 Atualmente buscando uma oportunidade de trabalho (Interessado? Me mande um email AGORA!)
-- 🌱 Atualmente aprendendo sobre IA, RAG, LLMs e outras coisas legais.
-=======
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dev-leonzera/dev-leonzera/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -71,7 +64,6 @@ Quando não estou codando, me encontra tocando guitarra 🎸, na academia 🏋�
     <img alt="Snake animation" src="https://github.com/dev-leonzera/dev-leonzera/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
->>>>>>> Stashed changes
 
 ---
 
