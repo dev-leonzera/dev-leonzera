@@ -39,18 +39,17 @@ Quando não estou codando, me encontra tocando guitarra 🎸, na academia 🏋�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats"/>
-  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages"/>
+  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" width="95%"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=dev-leonzera&theme=dracula&hide_border=true&background=00000000" alt="GitHub Streak"/>
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language" width="48%"/>
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" width="48%"/>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-leonzera&theme=dracula&hide_border=true&bg_color=00000000&line=bd93f9&point=ff79c6&color=f8f8f2" width="95%" alt="Activity Graph"/>
+  <img src="./profile-summary-card-output/dracula/3-stats.svg" alt="Stats" width="48%"/>
+  <img src="./profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" width="48%"/>
 </div>
 
 ---

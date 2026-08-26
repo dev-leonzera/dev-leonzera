@@ -1,4 +1,4 @@
-name: Generate GitHub Stats Cards
+name: GitHub Profile Summary Cards
 
 on:
   schedule:
@@ -8,31 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-cards
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate Stats Card
-        uses: soulteary/github-readme-stats-action@v1.0.0
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Top Languages Card
-        uses: soulteary/github-readme-stats-action@v1.0.0
-        with:
-          card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=dracula&hide_border=true&bg_color=00000000"
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git diff --staged --quiet || (git commit -m "📊 Update README stats cards" && git push)
+          USERNAME: ${{ github.repository_owner }}
+          THEME: dracula
